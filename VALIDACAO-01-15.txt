@@ -1,0 +1,15 @@
+listening-01: PDF=91712 bytes | MP3=2792469 bytes
+listening-02: PDF=133960 bytes | MP3=2514502 bytes
+listening-03: PDF=99884 bytes | MP3=2403953 bytes
+listening-04: PDF=121812 bytes | MP3=5164887 bytes
+listening-05: PDF=107432 bytes | MP3=3215983 bytes
+listening-06: PDF=96872 bytes | MP3=3117198 bytes
+listening-07: PDF=117514 bytes | MP3=2902656 bytes
+listening-08: PDF=144212 bytes | MP3=5305234 bytes
+listening-09: PDF=124595 bytes | MP3=5318168 bytes
+listening-10: PDF=141400 bytes | MP3=11042021 bytes
+listening-11: PDF=106038 bytes | MP3=5804640 bytes
+listening-12: PDF=121410 bytes | MP3=4434600 bytes
+listening-13: PDF=117342 bytes | MP3=1514194 bytes
+listening-14: PDF=128458 bytes | MP3=2539735 bytes
+listening-15: PDF=151722 bytes | MP3=1881998 bytes

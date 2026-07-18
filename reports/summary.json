@@ -1,0 +1,37 @@
+{
+  "source_files": 358,
+  "total_size_bytes": 372276191,
+  "counts": {
+    "basic-1 / unit / pdf": 20,
+    "basic-1 / unit / audio": 20,
+    "basic-1 / resource / audio": 1,
+    "basic-2 / unit / pdf": 19,
+    "basic-2 / unit / audio": 19,
+    "basic-2 / resource / audio": 1,
+    "intermediate / unit / pdf": 19,
+    "intermediate / unit / audio": 20,
+    "intermediate / resource / audio": 1,
+    "advanced / unit / pdf": 20,
+    "advanced / unit / audio": 20,
+    "advanced / resource / audio": 1,
+    "basic-2 / conversation / pdf": 12,
+    "intermediate / conversation / pdf": 25,
+    "advanced / conversation / pdf": 6,
+    "intermediate / listening / student_pdf": 30,
+    "intermediate / listening / audio": 30,
+    "intermediate / listening / teacher_guide": 19,
+    "advanced / listening / student_pdf": 30,
+    "advanced / listening / audio": 30,
+    "advanced / listening / teacher_guide": 15
+  },
+  "missing": [
+    "Basic 2 Unit 40: PDF missing",
+    "Basic 2 Unit 40: audio missing",
+    "Intermediate Unit 43: PDF missing",
+    "Basic 2 Conversation 08: PDF missing",
+    "Advanced Conversation 05: PDF missing"
+  ],
+  "warnings": [
+    "Advanced Listening 06: possible title mismatch — student PDF is Campaign Election; MP3 filename is Pharmacy"
+  ]
+}

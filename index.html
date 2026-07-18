@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0f0f1a">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Learning Levels</title>
+  <link rel="stylesheet" href="assets/style-20260718-v8.css?v=8">
+</head>
+<body>
+<main class="app">
+  <section id="home-page" class="page home-page active">
+    <div class="shell home-shell">
+      <header class="hero"><h1>Learning Levels</h1><p>Choose your level</p></header>
+      <div id="levels-grid" class="level-grid"></div>
+    </div>
+  </section>
+  <section id="library-page" class="page">
+    <div class="shell">
+      <div class="topbar"><button id="home-back" class="back-button">← Back</button></div>
+      <header><span id="level-badge" class="badge"></span><h1 id="level-title" class="page-title"></h1></header>
+      <nav id="category-tabs" class="tabs"></nav>
+      <div id="resource-slot"></div>
+      <input id="search-input" class="search" type="search" autocomplete="off">
+      <div id="items-grid" class="items-grid"></div>
+      <div class="footer">SEC Idiomas · Build 2026.07.18-v8</div>
+    </div>
+  </section>
+  <section id="viewer-page" class="page">
+    <div class="shell">
+      <div class="topbar"><button id="viewer-back" class="back-button">← Back</button></div>
+      <header class="viewer-head"><span id="viewer-badge" class="badge"></span><h1 id="viewer-title"></h1></header>
+      <div id="media-stack" class="media-stack"></div>
+      <div class="footer">SEC Idiomas · Build 2026.07.18-v8</div>
+    </div>
+  </section>
+</main>
+<script src="assets/catalog-20260718-v8.js?v=8"></script>
+<script src="assets/app-20260718-v8.js?v=8"></script>
+</body>
+</html>

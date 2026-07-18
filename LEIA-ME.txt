@@ -1,0 +1,10 @@
+CORREÇÃO V8 — ADVANCED LISTENING EM UMA ÚNICA LISTA
+
+1. Extraia este ZIP diretamente na raiz do repositório.
+2. Substitua index.html e teacher.html.
+3. Mescle a pasta assets.
+4. No GitHub Desktop, faça Commit to main e Push origin.
+5. Abra o site com ?v=8 para evitar cache antigo.
+
+Esta correção não contém PDFs nem áudios. Ela altera somente a navegação.
+Advanced > Listening exibirá os 30 itens de uma só vez, sem divisão 01–15 / 16–30.
