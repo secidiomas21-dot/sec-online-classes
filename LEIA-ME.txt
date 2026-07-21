@@ -1,13 +1,13 @@
-CORRECAO V12 — BOTAO TEACHER AREA COM SENHA
+SEC ONLINE CLASSES — v14
 
+Alteração:
+- O botão “Teacher Area” voltou para baixo dos níveis.
+- O botão está menor e mais discreto.
+- Todo o funcionamento da v13 foi preservado.
+
+Instalação:
 1. Extraia este ZIP.
-2. Envie index.html e teacher.html para a raiz do repositorio.
-3. Mescle/substitua os arquivos dentro de assets/.
-4. Faca Commit e Push.
-5. Abra o site com ?v=12 e atualize com Ctrl + F5.
-
-O botao Teacher Area aparece na pagina inicial dos alunos.
-A pagina teacher.html tambem pede senha quando acessada diretamente.
-
-Observacao: esta e uma protecao feita no navegador para evitar acesso casual.
-Como o GitHub Pages e um site estatico, ela nao substitui autenticacao real de servidor.
+2. Envie todo o conteúdo para a raiz do repositório.
+3. Aceite substituir os arquivos existentes.
+4. Faça Commit e Push.
+5. Abra o site com ?v=14 para evitar cache.

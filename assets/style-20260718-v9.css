@@ -43,3 +43,55 @@
 .teacher-submit-button:disabled{opacity:.58;cursor:wait}
 body.teacher-gate-open{overflow:hidden}
 @media(max-width:600px){.teacher-entry-wrap{margin-top:20px}.teacher-gate{padding:14px}.teacher-gate-card{padding:25px 20px}.teacher-gate-actions{align-items:stretch;flex-direction:column-reverse}.teacher-gate-actions .ghost-button,.teacher-gate-actions .primary-link{width:100%;justify-content:center}.teacher-gate-actions-single{flex-direction:column-reverse}}
+
+/* Teacher entry visibility and iframe-safe placement — v13 */
+.teacher-entry-wrap{
+  position:fixed;
+  top:16px;
+  right:18px;
+  z-index:50;
+  margin:0;
+}
+.teacher-access-button{
+  background:rgba(17,17,21,.92);
+  box-shadow:0 8px 26px rgba(0,0,0,.34);
+  backdrop-filter:blur(8px);
+}
+@media(max-width:600px){
+  .teacher-entry-wrap{top:10px;right:10px}
+  .teacher-access-button{padding:8px 12px;font-size:.78rem}
+}
+
+/* Discreet Teacher Area entry below the level cards — v14 */
+.teacher-entry-wrap{
+  position:static;
+  top:auto;
+  right:auto;
+  z-index:auto;
+  display:flex;
+  justify-content:center;
+  margin:24px auto 0;
+}
+.teacher-access-button{
+  border-color:rgba(255,255,255,.07);
+  background:transparent;
+  color:#5f5a70;
+  padding:6px 10px;
+  border-radius:999px;
+  font-size:.72rem;
+  font-weight:600;
+  box-shadow:none;
+  backdrop-filter:none;
+  opacity:.62;
+}
+.teacher-access-button:hover,
+.teacher-access-button:focus-visible{
+  background:rgba(255,255,255,.035);
+  color:var(--muted);
+  border-color:rgba(255,255,255,.12);
+  opacity:1;
+}
+@media(max-width:600px){
+  .teacher-entry-wrap{position:static;top:auto;right:auto;margin-top:18px}
+  .teacher-access-button{padding:6px 9px;font-size:.69rem}
+}

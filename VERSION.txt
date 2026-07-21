@@ -1,7 +1,3 @@
-SEC Online Classes — Build 2026.07.20-v12
-
-Changes:
-- Added a Teacher Area button to the student home page.
-- Added a password prompt before opening teacher.html.
-- Direct access to teacher.html now also requires the password.
-- Access remains active only in the current browser tab/session.
+SEC Online Classes
+Build 2026.07.21-v14
+Teacher Area button moved below the level cards with discreet styling.
