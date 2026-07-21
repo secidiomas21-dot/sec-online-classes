@@ -1,13 +1,13 @@
-CORREÇÃO DO LEITOR DE PDF NO CELULAR — BUILD v9
+CORRECAO V12 — BOTAO TEACHER AREA COM SENHA
 
-1. Extraia este ZIP diretamente na raiz do repositório.
-2. Substitua index.html e teacher.html.
-3. Mescle a pasta assets.
-4. No GitHub Desktop: Commit to main e Push origin.
-5. Abra o site com ?v=9 e atualize com Ctrl+F5.
+1. Extraia este ZIP.
+2. Envie index.html e teacher.html para a raiz do repositorio.
+3. Mescle/substitua os arquivos dentro de assets/.
+4. Faca Commit e Push.
+5. Abra o site com ?v=12 e atualize com Ctrl + F5.
 
-Agora os PDFs são renderizados dentro da página com PDF.js.
-O botão Open PDF permanece apenas como alternativa.
+O botao Teacher Area aparece na pagina inicial dos alunos.
+A pagina teacher.html tambem pede senha quando acessada diretamente.
 
-Observação: o leitor carrega a biblioteca PDF.js pela CDN jsDelivr.
-O PDF e os áudios continuam armazenados no seu próprio GitHub Pages.
+Observacao: esta e uma protecao feita no navegador para evitar acesso casual.
+Como o GitHub Pages e um site estatico, ela nao substitui autenticacao real de servidor.

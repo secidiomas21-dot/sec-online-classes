@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#0f0f1a">
+  <meta name="theme-color" content="#000000">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
   <title>Learning Levels</title>
-  <link rel="stylesheet" href="assets/style-20260718-v9.css?v=9">
+  <link rel="stylesheet" href="assets/style-20260718-v9.css?v=12">
 </head>
 <body>
 <main class="app">
@@ -16,6 +16,9 @@
     <div class="shell home-shell">
       <header class="hero"><h1>Learning Levels</h1><p>Choose your level</p></header>
       <div id="levels-grid" class="level-grid"></div>
+      <div class="teacher-entry-wrap">
+        <button id="teacher-access" class="teacher-access-button" type="button">Teacher Area</button>
+      </div>
     </div>
   </section>
   <section id="library-page" class="page">
@@ -26,7 +29,7 @@
       <div id="resource-slot"></div>
       <input id="search-input" class="search" type="search" autocomplete="off">
       <div id="items-grid" class="items-grid"></div>
-      <div class="footer">SEC Idiomas · Build 2026.07.18-v9</div>
+      <div class="footer">SEC Idiomas · Build 2026.07.20-v12</div>
     </div>
   </section>
   <section id="viewer-page" class="page">
@@ -34,11 +37,30 @@
       <div class="topbar"><button id="viewer-back" class="back-button">← Back</button></div>
       <header class="viewer-head"><span id="viewer-badge" class="badge"></span><h1 id="viewer-title"></h1></header>
       <div id="media-stack" class="media-stack"></div>
-      <div class="footer">SEC Idiomas · Build 2026.07.18-v9</div>
+      <div class="footer">SEC Idiomas · Build 2026.07.20-v12</div>
     </div>
   </section>
 </main>
-<script src="assets/catalog-20260718-v9.js?v=9"></script>
-<script src="assets/app-20260718-v9.js?v=9"></script>
+<div id="teacher-gate" class="teacher-gate" hidden>
+  <section class="teacher-gate-card" role="dialog" aria-modal="true" aria-labelledby="teacher-gate-title">
+    <button class="teacher-gate-close" type="button" aria-label="Close" data-close-teacher-gate>×</button>
+    <span class="badge">SEC Idiomas</span>
+    <h2 id="teacher-gate-title">Teacher Area</h2>
+    <p>Enter the teacher password to continue.</p>
+    <form id="teacher-login-form" novalidate>
+      <label class="teacher-password-label" for="teacher-password">Password</label>
+      <input id="teacher-password" class="teacher-password-input" type="password" autocomplete="current-password" required>
+      <p id="teacher-login-error" class="teacher-login-error" role="alert" hidden></p>
+      <div class="teacher-gate-actions">
+        <button class="ghost-button" type="button" data-close-teacher-gate>Cancel</button>
+        <button class="primary-link teacher-submit-button" type="submit">Enter</button>
+      </div>
+    </form>
+  </section>
+</div>
+<script src="assets/teacher-auth-20260720-v12.js?v=12"></script>
+<script src="assets/teacher-gate-20260720-v12.js?v=12"></script>
+<script src="assets/catalog-20260718-v9.js?v=12"></script>
+<script src="assets/app-20260718-v9.js?v=12"></script>
 </body>
 </html>
