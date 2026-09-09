@@ -393,6 +393,101 @@ window.SEC_CATALOG = {
                 }
               ],
               "available": true
+            },
+            {
+              "id": "21",
+              "number": 21,
+              "label": "Unit",
+              "title": "Extended Family",
+              "media": [
+                {
+                  "type": "pdf",
+                  "label": "Unit",
+                  "path": "materials/basic-1/units/unit-21/unit-21.pdf"
+                },
+                {
+                  "type": "audio",
+                  "label": "Audio",
+                  "path": "materials/basic-1/units/unit-21/audio.mp3"
+                }
+              ],
+              "available": true
+            },
+            {
+              "id": "22",
+              "number": 22,
+              "label": "Unit",
+              "title": "Routine",
+              "media": [
+                {
+                  "type": "pdf",
+                  "label": "Unit",
+                  "path": "materials/basic-1/units/unit-22/unit-22.pdf"
+                },
+                {
+                  "type": "audio",
+                  "label": "Audio",
+                  "path": "materials/basic-1/units/unit-22/audio.mp3"
+                }
+              ],
+              "available": true
+            },
+            {
+              "id": "23",
+              "number": 23,
+              "label": "Unit",
+              "title": "My Days",
+              "media": [
+                {
+                  "type": "pdf",
+                  "label": "Unit",
+                  "path": "materials/basic-1/units/unit-23/unit-23.pdf"
+                },
+                {
+                  "type": "audio",
+                  "label": "Audio",
+                  "path": "materials/basic-1/units/unit-23/audio.mp3"
+                }
+              ],
+              "available": true
+            },
+            {
+              "id": "24",
+              "number": 24,
+              "label": "Unit",
+              "title": "People’s Routines",
+              "media": [
+                {
+                  "type": "pdf",
+                  "label": "Unit",
+                  "path": "materials/basic-1/units/unit-24/unit-24.pdf"
+                },
+                {
+                  "type": "audio",
+                  "label": "Audio",
+                  "path": "materials/basic-1/units/unit-24/audio.mp3"
+                }
+              ],
+              "available": true
+            },
+            {
+              "id": "25",
+              "number": 25,
+              "label": "Unit",
+              "title": "Yesterday",
+              "media": [
+                {
+                  "type": "pdf",
+                  "label": "Unit",
+                  "path": "materials/basic-1/units/unit-25/unit-25.pdf"
+                },
+                {
+                  "type": "audio",
+                  "label": "Audio",
+                  "path": "materials/basic-1/units/unit-25/audio.mp3"
+                }
+              ],
+              "available": true
             }
           ]
         }

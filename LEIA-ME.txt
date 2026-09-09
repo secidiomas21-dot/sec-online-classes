@@ -1,13 +1,12 @@
-SEC ONLINE CLASSES — v14
+SEC Online Classes — v15
 
-Alteração:
-- O botão “Teacher Area” voltou para baixo dos níveis.
-- O botão está menor e mais discreto.
-- Todo o funcionamento da v13 foi preservado.
+Adds Basic 1 Units 21–25:
+21 Extended Family
+22 Routine
+23 My Days
+24 People’s Routines
+25 Yesterday
 
-Instalação:
-1. Extraia este ZIP.
-2. Envie todo o conteúdo para a raiz do repositório.
-3. Aceite substituir os arquivos existentes.
-4. Faça Commit e Push.
-5. Abra o site com ?v=14 para evitar cache.
+The uploaded Unit 22/23 PDF filenames were swapped; this package places them under the correct unit numbers based on the PDF contents.
+
+Extract this ZIP into the repository root, merge folders, replace existing code files, then Commit and Push. Existing materials are not removed.
