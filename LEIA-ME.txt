@@ -1,12 +1,30 @@
-SEC Online Classes — v15
+SEC Idiomas — Basic 1 Pronunciation — v16
 
-Adds Basic 1 Units 21–25:
-21 Extended Family
-22 Routine
-23 My Days
-24 People’s Routines
-25 Yesterday
+This package adds a new PRONUNCIATION tab inside BASIC 1.
 
-The uploaded Unit 22/23 PDF filenames were swapped; this package places them under the correct unit numbers based on the PDF contents.
+What was added:
+- 14 pronunciation videos inside Basic 1
+- Updated site code so videos open inside the same viewer
+- Build updated to 2026.09.09-v16
 
-Extract this ZIP into the repository root, merge folders, replace existing code files, then Commit and Push. Existing materials are not removed.
+How to install:
+1. Open your local repository folder.
+2. Extract this ZIP directly into the root of the repository.
+3. Allow Windows to merge folders and replace files.
+4. Open GitHub Desktop.
+5. Commit and Push.
+
+Files/folders added or changed:
+- index.html
+- teacher.html
+- VERSION.txt
+- assets/style-20260909-v16.css
+- assets/catalog-20260909-v16.js
+- assets/app-20260909-v16.js
+- materials/basic-1/pronunciation/
+
+After publishing, test here:
+https://classes.secidiomas.com.br/?v=16
+
+Where to find the videos in the site:
+Basic 1 -> Pronunciation
