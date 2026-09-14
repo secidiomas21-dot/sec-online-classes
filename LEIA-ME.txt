@@ -1,30 +1,20 @@
-SEC Idiomas — Basic 1 Pronunciation — v16
+SEC Idiomas — Basic 2 Units 41–45 — v19
 
-This package adds a new PRONUNCIATION tab inside BASIC 1.
+Added to Basic 2 > Unit:
+41 — First Day at Work
+42 — Fast Food
+43 — Appliances
+44 — Weekend
+45 — It Hurts
 
-What was added:
-- 14 pronunciation videos inside Basic 1
-- Updated site code so videos open inside the same viewer
-- Build updated to 2026.09.09-v16
+Each unit contains:
+- Audio player first
+- Unit PDF below
 
-How to install:
-1. Open your local repository folder.
-2. Extract this ZIP directly into the root of the repository.
-3. Allow Windows to merge folders and replace files.
-4. Open GitHub Desktop.
-5. Commit and Push.
+This patch is based on v18 and keeps the removal of Useful Language / Language Practice players.
 
-Files/folders added or changed:
-- index.html
-- teacher.html
-- VERSION.txt
-- assets/style-20260909-v16.css
-- assets/catalog-20260909-v16.js
-- assets/app-20260909-v16.js
-- materials/basic-1/pronunciation/
-
-After publishing, test here:
-https://classes.secidiomas.com.br/?v=16
-
-Where to find the videos in the site:
-Basic 1 -> Pronunciation
+Install:
+1. Extract this ZIP into the repository root.
+2. Merge folders and replace existing files when asked.
+3. Commit and Push in GitHub Desktop.
+4. Test: https://classes.secidiomas.com.br/?v=19

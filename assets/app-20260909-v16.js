@@ -203,10 +203,6 @@
 
     const resource = $('#resource-slot');
     resource.innerHTML = '';
-    if (current.category === 'unit' && level.resource) {
-      const audio = level.resource.media.find((media) => media.type === 'audio');
-      resource.innerHTML = `<div class="resource-card"><strong>${level.resource.label}</strong><audio controls preload="metadata" src="${audio.path}"></audio></div>`;
-    }
 
     const input = $('#search-input');
     input.value = '';
@@ -255,7 +251,14 @@
     const stack = $('#media-stack');
     stack.innerHTML = '';
 
-    item.media.forEach((media) => {
+    const orderedMedia = [
+      ...item.media.filter((media) => media.type === 'audio'),
+      ...item.media.filter((media) => media.type === 'video'),
+      ...item.media.filter((media) => media.type === 'pdf'),
+      ...item.media.filter((media) => !['audio', 'video', 'pdf'].includes(media.type))
+    ];
+
+    orderedMedia.forEach((media) => {
       if (media.type === 'audio') {
         const card = document.createElement('section');
         card.className = 'media-card';
