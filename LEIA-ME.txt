@@ -1,20 +1,16 @@
-SEC Idiomas — Basic 2 Units 41–45 — v19
+SEC Idiomas — Intermediate Listening Teacher's Guides 31–38 — v21
 
-Added to Basic 2 > Unit:
-41 — First Day at Work
-42 — Fast Food
-43 — Appliances
-44 — Weekend
-45 — It Hurts
+This package adds the Teacher's Guides for Intermediate Listening 31–38 to Teacher Area.
 
-Each unit contains:
-- Audio player first
-- Unit PDF below
+Each item in Teacher Area now opens:
+- Audio
+- Listening PDF
+- Teacher's Guide
 
-This patch is based on v18 and keeps the removal of Useful Language / Language Practice players.
-
-Install:
-1. Extract this ZIP into the repository root.
-2. Merge folders and replace existing files when asked.
+How to install:
+1. Extract this ZIP directly into the ROOT of the repository.
+2. Allow folders to merge and files to be replaced.
 3. Commit and Push in GitHub Desktop.
-4. Test: https://classes.secidiomas.com.br/?v=19
+
+Test:
+https://classes.secidiomas.com.br/teacher.html?v=21
