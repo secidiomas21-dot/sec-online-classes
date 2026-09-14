@@ -1,16 +1,12 @@
-SEC Idiomas — Intermediate Listening Teacher's Guides 31–38 — v21
+SEC Idiomas — Replace Basic 1 Unit 24 — v22
 
-This package adds the Teacher's Guides for Intermediate Listening 31–38 to Teacher Area.
-
-Each item in Teacher Area now opens:
-- Audio
-- Listening PDF
-- Teacher's Guide
+This package replaces the existing Basic 1 Unit 24 files with the new PDF and MP3 provided by the user, and updates the title shown on the site to People's Routine.
 
 How to install:
 1. Extract this ZIP directly into the ROOT of the repository.
-2. Allow folders to merge and files to be replaced.
-3. Commit and Push in GitHub Desktop.
+2. Allow Windows to merge folders and replace files.
+3. Open GitHub Desktop.
+4. Commit and Push.
 
-Test:
-https://classes.secidiomas.com.br/teacher.html?v=21
+Then test here:
+https://classes.secidiomas.com.br/?v=22
