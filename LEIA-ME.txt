@@ -1,12 +1,16 @@
-SEC Idiomas — Replace Basic 1 Unit 24 — v22
+SEC Idiomas — Intermediate Units 61–65 — v23
 
-This package replaces the existing Basic 1 Unit 24 files with the new PDF and MP3 provided by the user, and updates the title shown on the site to People's Routine.
+Adds:
+- Unit 61 — The Right Place
+- Unit 62 — Shopping Online
+- Unit 63 — What’s New
+- Unit 64 — Stories to Tell
+- Unit 65 — It’s Been Aching
 
-How to install:
-1. Extract this ZIP directly into the ROOT of the repository.
-2. Allow Windows to merge folders and replace files.
-3. Open GitHub Desktop.
-4. Commit and Push.
+Each unit includes its audio and PDF. The site keeps the current behavior with the audio above the PDF viewer.
 
-Then test here:
-https://classes.secidiomas.com.br/?v=22
+Install:
+1. Extract this ZIP into the ROOT of the repository.
+2. Merge folders and replace files when prompted.
+3. Commit and Push in GitHub Desktop.
+4. Test: https://classes.secidiomas.com.br/?v=23
