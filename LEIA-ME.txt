@@ -1,16 +1,15 @@
-SEC Idiomas — Intermediate Units 61–65 — v23
+SEC Idiomas — Advanced Units 81–82 — v24
 
-Adds:
-- Unit 61 — The Right Place
-- Unit 62 — Shopping Online
-- Unit 63 — What’s New
-- Unit 64 — Stories to Tell
-- Unit 65 — It’s Been Aching
+Adds to Advanced > Unit:
+- Unit 81 — Starting Over
+- Unit 82 — A Matter of Taste
 
-Each unit includes its audio and PDF. The site keeps the current behavior with the audio above the PDF viewer.
+Each unit includes audio and PDF. Audio is listed before PDF in the catalog.
 
 Install:
-1. Extract this ZIP into the ROOT of the repository.
+1. Extract this ZIP into the repository root.
 2. Merge folders and replace files when prompted.
 3. Commit and Push in GitHub Desktop.
-4. Test: https://classes.secidiomas.com.br/?v=23
+
+Test:
+https://classes.secidiomas.com.br/?v=24
