@@ -1,15 +1,15 @@
-SEC Idiomas — Advanced Units 81–82 — v24
+SEC Idiomas — Replace Intermediate Listening 31–38 — v25
 
-Adds to Advanced > Unit:
-- Unit 81 — Starting Over
-- Unit 82 — A Matter of Taste
+This package replaces the existing student PDFs and audio files for Intermediate Listening 31–38 with the newly provided versions.
+Teacher's Guides remain unchanged and continue to appear in Teacher Area.
 
-Each unit includes audio and PDF. Audio is listed before PDF in the catalog.
+How to install:
+1. Extract this ZIP directly into the ROOT of the repository.
+2. Allow Windows to merge folders and replace files.
+3. Open GitHub Desktop.
+4. Commit and Push.
 
-Install:
-1. Extract this ZIP into the repository root.
-2. Merge folders and replace files when prompted.
-3. Commit and Push in GitHub Desktop.
-
-Test:
-https://classes.secidiomas.com.br/?v=24
+Then test:
+https://classes.secidiomas.com.br/?v=25
+Teacher Area:
+https://classes.secidiomas.com.br/teacher.html?v=25
