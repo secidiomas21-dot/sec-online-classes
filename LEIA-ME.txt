@@ -1,15 +1,13 @@
-SEC Idiomas — Replace Intermediate Listening 31–38 — v25
+SEC Idiomas — Audio replacement v26
 
-This package replaces the existing student PDFs and audio files for Intermediate Listening 31–38 with the newly provided versions.
-Teacher's Guides remain unchanged and continue to appear in Teacher Area.
+Replaces only these two audios:
+- Basic 1 — Unit 24 — People's Routine
+- Basic 2 — Unit 44 — Weekend
 
-How to install:
-1. Extract this ZIP directly into the ROOT of the repository.
-2. Allow Windows to merge folders and replace files.
-3. Open GitHub Desktop.
-4. Commit and Push.
+The catalog was also updated with cache-busting so browsers load the new MP3 files immediately.
 
-Then test:
-https://classes.secidiomas.com.br/?v=25
-Teacher Area:
-https://classes.secidiomas.com.br/teacher.html?v=25
+INSTALLATION
+1. Extract this ZIP into the ROOT folder of the website repository.
+2. Allow folders to merge and files to be replaced.
+3. Commit and Push in GitHub Desktop.
+4. Test: https://classes.secidiomas.com.br/?v=26
