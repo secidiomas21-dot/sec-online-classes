@@ -1,11 +1,20 @@
-SEC Idiomas - Conversation #02 Feelings PDF replacement - v29
+SEC Idiomas — Combined update v30
 
-This update replaces only Basic 2 > Conversation #02 > Feelings with the exact PDF supplied by the user.
+This single package includes ALL pending changes from v28 plus the corrected Conversation #02 PDF supplied afterward.
+
+Included:
+- Basic 1 Unit 22 — Routine (new PDF)
+- Basic 1 Unit 23 — My Days (new PDF)
+- Basic 1 Unit 24 — People's Routines (new PDF)
+- Basic 1 Unit 25 — Yesterday (new PDF)
+- Basic 2 Conversation #02 — Feelings (exact corrected PDF supplied by user)
+
+Existing Unit 22–25 audio files are not replaced.
 
 Install:
 1. Extract this ZIP into the ROOT of the repository.
-2. Allow merge/replace.
+2. Allow folders to merge and files to be replaced.
 3. Commit and Push in GitHub Desktop.
 
 Test:
-https://classes.secidiomas.com.br/?v=29
+https://classes.secidiomas.com.br/?v=30
