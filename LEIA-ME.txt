@@ -1,22 +1,11 @@
-SEC Idiomas — Open Class — v27
+SEC Idiomas - Conversation #02 Feelings PDF replacement - v29
 
-Adds a new level called "Open Class" after Advanced and includes Open Classes 01–09.
+This update replaces only Basic 2 > Conversation #02 > Feelings with the exact PDF supplied by the user.
 
-Added:
-01 — Ordering a Pizza, Pick Up or Delivery?
-02 — Idioms
-03 — Most Common Greetings in the U.S.
-04 — Numbers and Age
-05 — What Day Is Today?
-06 — Family Members
-07 — Ordering at a Restaurant
-08 — You Are Here
-09 — The Commute
-
-Installation:
-1. Extract this ZIP into the ROOT of the website repository.
-2. Allow folders to merge and files to be replaced.
+Install:
+1. Extract this ZIP into the ROOT of the repository.
+2. Allow merge/replace.
 3. Commit and Push in GitHub Desktop.
 
 Test:
-https://classes.secidiomas.com.br/?v=27
+https://classes.secidiomas.com.br/?v=29
